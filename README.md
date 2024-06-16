@@ -8,10 +8,10 @@ A simple clone of the classic Flappy Bird game implemented in Python using the P
 
 - [Description](#description)
 - [Screenshots](#screenshots)
+- [Dependencies](#dependencies) 
 - [Installation](#installation)
 - [Usage](#usage)
 - [Whats New?](#whats-new)
-- [Dependencies](#dependencies) 
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -30,6 +30,15 @@ This project is a recreation of the popular Flappy Bird game, developed using Py
 
 ### Game over
 ![Gameplay Screenshot](assets/screenshots/gameover.png)
+
+## Dependencies
+
+- `python3` is required.
+- `pygame` will be installed automatically if not already installed. This may not work on linux distros where the python evironments in externally managed such as arch linux. in those, you have to manually install pygame package.
+- Other packages used are part of the standard library such as
+    - `datetime`
+    - `random`
+    - `os`
 
 ## Installation
 
@@ -55,15 +64,6 @@ This project is a recreation of the popular Flappy Bird game, developed using Py
 ## Whats new?
 
 - Nothing.
-
-## Dependencies
-
-- `python3` is required
-- `pygame` is the only external package required to installed if not already installed
-- Other packages used are part of the standard library such as
-    - `datetime`
-    - `random`
-    - `os`
 
 ## Contributing
 
