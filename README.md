@@ -42,10 +42,10 @@ This project is a recreation of the popular Flappy Bird game, developed using Py
 
 ## Installation
 
-- Clone this repo using the command `git clone https://github.com/srykrnm/floopyBirdy` on you terminal or cmd
-- open the folder `floopyBirdy/src` and just run `main.py` file. 
-- thats it
-- Enjoy
+- Clone this repo using the command `git clone https://github.com/srykrnm/FloopyBirdy` on you terminal or cmd.
+- go to the directory `FloopyBirdy/src` and just run `main.py` file. 
+- thats it.
+- Enjoy.
 
 ## usage 
 
@@ -54,7 +54,7 @@ This project is a recreation of the popular Flappy Bird game, developed using Py
 - Start the game by hitting the mouse control, then use the mouse control to navigate the bird through pillars.
 - For every pillar the bird passes through successfully the score will be incremented by 1.
 - As the score increases the rate at which the bird moves increases making it harder.
-- This is a endless runner , so the objective is to score the highest
+- This is a endless runner , so the objective is to score the highest.
 - During gameplay the current score will be displayed on the left while the highest on the right.
 - Highest score will be stored in a text file.
 - Hitting the pillars, the ground or the roof will cause you to lose the game and the game will return to starting interface prompting you to click to start again
