@@ -4,10 +4,6 @@
 
 A simple clone of the classic Flappy Bird game implemented in Python using the Pygame library.
 
-## Description
-
-This project is a recreation of the popular Flappy Bird game, developed using Python and the Pygame library.
-
 ## Screenshots
 
 ### After the game is launched
