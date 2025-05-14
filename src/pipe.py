@@ -15,7 +15,7 @@ class Pipe(pygame.sprite.Sprite):
         elif orientation == "down":
             self.image = pygame.transform.flip(PIPE, False, True)
             self.rect = self.image.get_rect(midtop = pos)
-        self.passed = False  # New attribute to track if the bird has passed this pipe
+        self.passed = False
 
 
     def destroy(self):

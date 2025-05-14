@@ -103,7 +103,6 @@ class FloopyBirdy:
         if self.score.score > 1000:
             self.SCROLL_SPEED = 6
 
-
     def runningDraw(self):
         # draw onto the screen when the game is running
 
@@ -113,7 +112,6 @@ class FloopyBirdy:
         self.birdy.draw(self.WIN)
         self.score.draw(self.WIN)
  
-
     def draw(self, mode):
         # draw contents onto the window and update
 
@@ -209,7 +207,6 @@ class FloopyBirdy:
         else:
             self.draw(mode="gameover")
 
-
     def run(self):
         # run fn : puts all things togather and makes it work
 
@@ -221,6 +218,4 @@ class FloopyBirdy:
         else:
             exit()
 
-    
 ### END ###
-
