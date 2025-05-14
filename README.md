@@ -27,7 +27,7 @@ This project is a recreation of the popular Flappy Bird game, developed using Py
 ## Running
 
 ```bash
-git clone https://github.com/srykrnm/FloopyBirdy
+git clone https://github.com/tmpstpdwn/FloopyBirdy
 python3 FloopyBirdy/src/main.py
 ```
 
